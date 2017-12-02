@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1512173504 source:c:\users\zaoden\desktop\code\codeblocks\test\maptest\main.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+
+1512184327 source:c:\users\zaoden\desktop\code\codeblocks\test\maptest\src\main.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+	<Maptoken.h>
+
+1512184417 c:\users\zaoden\desktop\code\codeblocks\test\maptest\include\maptoken.h
+
