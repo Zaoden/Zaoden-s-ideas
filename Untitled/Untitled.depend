@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1512583326 source:c:\users\zaoden\desktop\code\codeblocks\test\untitled\src\main.cpp
+	<iostream>
+	"../include/Grid.h"
+
+1512586935 source:c:\users\zaoden\desktop\code\codeblocks\test\untitled\src\grid.cpp
+	"../include/Grid.h"
+	"../include/Location.h"
+	<iostream>
+
+1512585322 c:\users\zaoden\desktop\code\codeblocks\test\untitled\include\grid.h
+	<vector>
+	"Location.h"
+
+1512586833 c:\users\zaoden\desktop\code\codeblocks\test\untitled\include\location.h
+
+1512586306 source:c:\users\zaoden\desktop\code\codeblocks\test\untitled\src\location.cpp
+	"../include/Location.h"
+
